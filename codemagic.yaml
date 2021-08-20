@@ -53,7 +53,7 @@ workflows:
             # See the following link for details about email publishing - https://docs.codemagic.io/publishing-yaml/distribution/#email
             email:
                 recipients:
-                    - $PUB_EMAIL
+                    - butlerfuqua@gmail.com
                 notify:
                   success: true     # To not receive a notification when a build succeeds
                   failure: false    # To not receive a notification when a build fails
@@ -140,7 +140,7 @@ workflows:
           # See the following link for details about email publishing - https://docs.codemagic.io/publishing-yaml/distribution/#email
           email:
             recipients:
-              - $PUB_EMAIL
+              - butlerfuqua@gmail.com
             notify:
               success: true     # To not receive a notification when a build succeeds
               failure: false    # To not receive a notification when a build fails
